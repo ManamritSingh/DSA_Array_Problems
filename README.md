@@ -15,6 +15,7 @@ Collection of LeetCode/GFG questions
 # Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0169-majority-element) |
 # Divide and Conquer
 |  |
@@ -32,3 +33,11 @@ Collection of LeetCode/GFG questions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+# Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0013-roman-to-integer) |
+# String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0013-roman-to-integer) |
