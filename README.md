@@ -6,6 +6,7 @@ Collection of LeetCode/GFG questions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0169-majority-element) |
 # Two Pointers
 |  |
@@ -27,3 +28,7 @@ Collection of LeetCode/GFG questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0169-majority-element) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
