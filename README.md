@@ -41,3 +41,4 @@ Collection of LeetCode/GFG questions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0058-length-of-last-word) |
