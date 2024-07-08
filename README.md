@@ -52,3 +52,18 @@ Collection of LeetCode/GFG questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0014-longest-common-prefix) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+<!---LeetCode Topics End-->
