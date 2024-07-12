@@ -12,9 +12,9 @@ public:
             a[i]*=temp;
             temp*=nums[i];
         }
-        for(int i =0; i<len;i++){
-            nums[i]=a[i];
-        }
-        return nums;
+        // for(int i =0; i<len;i++){
+        //     nums[i]=a[i];
+        // }
+        return a;
     }
 };
