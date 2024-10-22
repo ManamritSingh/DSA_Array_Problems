@@ -90,4 +90,20 @@ Collection of LeetCode/GFG questions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0238-product-of-array-except-self) |
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
