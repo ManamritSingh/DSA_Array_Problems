@@ -120,4 +120,16 @@ Collection of LeetCode/GFG questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
