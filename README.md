@@ -112,6 +112,7 @@ Collection of LeetCode/GFG questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -132,4 +133,5 @@ Collection of LeetCode/GFG questions
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0012-integer-to-roman) |
+| [0151-reverse-words-in-a-string](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
