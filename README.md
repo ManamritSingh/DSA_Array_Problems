@@ -132,6 +132,7 @@ Collection of LeetCode/GFG questions
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
