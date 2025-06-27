@@ -58,6 +58,7 @@ Collection of LeetCode/GFG questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0055-jump-game) |
@@ -87,6 +88,7 @@ Collection of LeetCode/GFG questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0015-3sum) |
 | [0274-h-index](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
@@ -117,6 +119,7 @@ Collection of LeetCode/GFG questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0151-reverse-words-in-a-string) |
