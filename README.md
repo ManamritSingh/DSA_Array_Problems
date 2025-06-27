@@ -63,6 +63,7 @@ Collection of LeetCode/GFG questions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0274-h-index) |
 ## Dynamic Programming
@@ -104,6 +105,7 @@ Collection of LeetCode/GFG questions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
@@ -115,6 +117,7 @@ Collection of LeetCode/GFG questions
 | [0042-trapping-rain-water](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
