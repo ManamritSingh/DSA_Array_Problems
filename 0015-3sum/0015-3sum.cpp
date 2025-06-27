@@ -1,30 +1,41 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        int target = 0;
-        sort(nums.begin(), nums.end());
-        set<vector<int>> output;
-        set<vector<int>> s;
-        for (int i = 0; i < nums.size(); i++) {
-            int j = i + 1;
-            int k = nums.size() - 1;
-            while (j < k) {
-                int sum = nums[i] + nums[j] + nums[k];
-                if (sum == target) {
-                    s.insert({nums[i], nums[j], nums[k]});
+        std::sort(nums.begin(), nums.end());
+        vector<vector<int>> res;
+        int i =0;
+        while(i < nums.size()-2){
+            if (i > 0 && nums[i] == nums[i - 1]){
+                i++;
+                continue;
+            }
+            int j = i+1;
+            int k = nums.size()-1;
+            while(j<k){
+                vector<int> pos;
+                int twosum=nums[j]+nums[k];
+                if(nums[i]+twosum==0){
+                    pos.push_back(nums[i]);
+                    pos.push_back(nums[j]);
+                    pos.push_back(nums[k]);
+                    res.push_back(pos);
+                    // skip duplicates for left
+                    while (j < k && nums[j] == nums[j + 1]) ++j;
+                    // skip duplicates for right
+                    while (j < k && nums[k] == nums[k - 1]) --k;
+                    ++j;
+                    --k;
+
+                }
+                else if(nums[i]+twosum<0){
                     j++;
-                    k--;
-                } else if (sum < target) {
-                    j++;
-                } else {
+                }
+                else{
                     k--;
                 }
             }
+            i++;
         }
-        
-        // Convert the set 's' to a vector 'output'
-        vector<vector<int>> result(s.begin(), s.end());
-        
-        return result;
+        return res;
     }
 };
