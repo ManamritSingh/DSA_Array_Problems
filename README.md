@@ -112,6 +112,7 @@ Collection of LeetCode/GFG questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
@@ -134,5 +135,6 @@ Collection of LeetCode/GFG questions
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0012-integer-to-roman) |
+| [0125-valid-palindrome](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
