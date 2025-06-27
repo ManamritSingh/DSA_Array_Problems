@@ -57,6 +57,7 @@ Collection of LeetCode/GFG questions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0055-jump-game) |
@@ -77,6 +78,7 @@ Collection of LeetCode/GFG questions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -114,6 +116,7 @@ Collection of LeetCode/GFG questions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0151-reverse-words-in-a-string) |
