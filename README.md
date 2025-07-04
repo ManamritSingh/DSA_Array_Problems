@@ -139,6 +139,7 @@ Collection of LeetCode/GFG questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0076-minimum-window-substring) |
 ## Math
 |  |
 | ------- |
@@ -150,6 +151,7 @@ Collection of LeetCode/GFG questions
 | [0006-zigzag-conversion](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0392-is-subsequence) |
@@ -158,4 +160,5 @@ Collection of LeetCode/GFG questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/ManamritSingh/DSA_Array_Problems/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
